@@ -1,4 +1,4 @@
-# 🧪 Lab — Analyze Sales Data Using Copilot in Excel (AB-730)
+# 🧪 Lab — Analyze Sales Data Using Copilot in Excel 
 
 ## 🎯 Goal
 Use **Microsoft Excel Copilot** to analyze a real sales dataset, generate insights, create visuals, and perform calculations.
