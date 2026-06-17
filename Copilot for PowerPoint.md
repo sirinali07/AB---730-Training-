@@ -16,13 +16,20 @@ Generate a presentation outline using **Copilot Chat (text only)**.
 
 1. Open **Copilot Chat** (e.g., in Edge, Bing, or M365 Copilot Chat).
 2. Enter the following prompt:
+```
+Create a 5-slide presentation about AI adoption in retail.
+```
+
 3. Review the output:
 - Copilot returns a **structured outline**
 - Includes slide titles and bullet points
 - ❗ No actual PowerPoint file is created
 
 4. Refine the output with a follow-up prompt:
-5. 5. Review the updated result:
+```
+Add a slide on ROI and rewrite the titles to be punchier.
+```
+5. Review the updated result:
 - Now contains **5–6 slides**
 - Improved, more engaging titles
 - Includes ROI-focused content
@@ -48,8 +55,11 @@ Generate a **real PowerPoint presentation (.pptx)** using Copilot inside PowerPo
 3. Go to the **Home tab**
 4. Click on **Copilot**
 
-5. Enter the same prompt used in Lab 2:
-6. Observe the results:
+5. Enter the same prompt used in Lab 1:
+  ```
+Create a 5-slide presentation about AI adoption in retail.
+```
+7. Observe the results:
 - Copilot generates **actual slides**
 - Includes:
   - Titles
@@ -65,7 +75,7 @@ Generate a **real PowerPoint presentation (.pptx)** using Copilot inside PowerPo
 
 # 🔍 Comparison: Chat vs PowerPoint Copilot
 
-| Feature              | Lab 2 — Chat Mode       | Lab 3 — PowerPoint Agent |
+| Feature              | Lab 1 — Chat Mode       | Lab 2 — PowerPoint Agent |
 |--------------------|------------------------|--------------------------|
 | Output             | Text outline           | Real slides (.pptx)      |
 | Acts on files      | ❌ No                  | ✅ Yes                   |
