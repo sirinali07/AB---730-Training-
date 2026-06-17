@@ -7,7 +7,7 @@ This lab demonstrates how the **same Copilot prompt** produces different outcome
 
 ---
 
-# 🧪 Lab 2 — Create Content in Chat Mode
+# 🧪 Lab 1 — Create Content in Chat Mode
 
 ## 🎯 Goal
 Generate a presentation outline using **Copilot Chat (text only)**.
@@ -36,7 +36,7 @@ Generate a presentation outline using **Copilot Chat (text only)**.
 
 ---
 
-# 🧪 Lab 3 — Create Content with PowerPoint Copilot
+# 🧪 Lab 2 — Create Content with PowerPoint Copilot
 
 ## 🎯 Goal
 Generate a **real PowerPoint presentation (.pptx)** using Copilot inside PowerPoint.
