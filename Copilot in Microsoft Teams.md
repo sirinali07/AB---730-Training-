@@ -1,5 +1,4 @@
-# 🧪 Lab — Enhance Collaboration Using Copilot in Microsoft Teams (AB-730)
-
+# 🧪 Lab — Enhance Collaboration Using Copilot in Microsoft Teams 
 ## 🎯 Goal
 Use **Teams Copilot** to summarize conversations, capture action items, and generate follow-ups efficiently.
 
