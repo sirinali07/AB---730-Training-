@@ -95,6 +95,8 @@ Make this message more concise and professional.
 ## 💡 Key Takeaway
 
 **Teams Copilot ensures alignment by summarizing discussions, tracking decisions, and generating follow-ups—saving time and reducing miscommunication.**
+
+
 ---
 
 
