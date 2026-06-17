@@ -1,4 +1,4 @@
-# Copilot for PowerPoint
+# 🧪 Lab — Copilot for PowerPoint
 
 ## Overview
 This lab demonstrates how the **same Copilot prompt** produces different outcomes depending on where it is used:
