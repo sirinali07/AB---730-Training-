@@ -55,13 +55,15 @@ Enter:
 ```
 Summarize this meeting with key discussion points.
 ```
+
 ---
 
 ## ✅ Step 6: Capture Decisions and Follow-ups
 
-````
+```
 What decisions were made in this meeting?
 ```
+
 ```
 List follow-up tasks with owners (if mentioned).
 ```
